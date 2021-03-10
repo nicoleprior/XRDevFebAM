@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Planet
+  m_Shader: {fileID: -6465566751694194690, guid: 753d7ea7fbf42fa4e92708d3bdd040ef,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - Contrast: 2.5
+    - Size: 22
+    - Vector1_9CAAB765: 20
+    m_Colors:
+    - Color_21F8073C: {r: 0.0382514, g: 0, b: 1, a: 0}
+    - Color_F6B49C6A: {r: 0, g: 1, b: 0.03703713, a: 0}
